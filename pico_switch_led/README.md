@@ -1,8 +1,9 @@
-# pico-blink-sdk
+# pico-switch-led
+This example follows on from Swift on embedded project[https://github.com/apple/swift-embedded-examples/tree/main?tab=readme-ov-file]
 
-This example demonstrates how to integrate with the Pico SDK which is using CMake as its build system -- the simplest way to integrate with it is to also use CMake to build a Swift firmware application on top of the SDK and the libraries from it.
+It attempts to control an external Led from a push button switch. It mimics the workings of a light switch toggling between "On" & "Off"
 
-<img src="https://raw.githubusercontent.com/kubamracek/swift-evolution/branch/assets/pico-blink-sdl.jpg">
+<img src="https://github.com/sayantanme/swift-on-embedded/assets/5054420/620bdaca-8533-4720-8122-c55865cb6742">
 
 ## Requirements
 
@@ -20,7 +21,7 @@ This example demonstrates how to integrate with the Pico SDK which is using CMak
 - Make sure you have a recent nightly Swift toolchain that has Embedded Swift support.
 - Build and copy the program in the UF2 format to the Mass Storage device to trigger flashing the program into memory (after which the device will reboot and run the firmware):
 ``` console
-$ cd pico-blink-sdk
+$ cd pico_switch_led
 $ export TOOLCHAINS='<toolchain-name>'
 $ export PICO_BOARD=pico
 $ export PICO_SDK_PATH='<path-to-your-pico-sdk>'
@@ -37,5 +38,3 @@ $ cmake --build build
 ```console
 $ cp build/swift-blinky.uf2 /Volumes/RP2040
 ```
-
-- The green LED should now be blinking in a pattern.
