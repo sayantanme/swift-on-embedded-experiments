@@ -1,0 +1,3 @@
+/Users/schakra4/Documents/Developer/pico/own_projects/pico_motion_detection/build/pioasm/CMakeFiles/pioasm.dir
+/Users/schakra4/Documents/Developer/pico/own_projects/pico_motion_detection/build/pioasm/CMakeFiles/edit_cache.dir
+/Users/schakra4/Documents/Developer/pico/own_projects/pico_motion_detection/build/pioasm/CMakeFiles/rebuild_cache.dir

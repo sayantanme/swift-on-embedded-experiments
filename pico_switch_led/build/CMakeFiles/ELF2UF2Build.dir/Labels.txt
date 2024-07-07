@@ -1,0 +1,13 @@
+# Target labels
+ ELF2UF2Build
+# Source files and their labels
+/Users/schakra4/Documents/Developer/pico/own_projects/pico_motion_detection/build/CMakeFiles/ELF2UF2Build
+/Users/schakra4/Documents/Developer/pico/own_projects/pico_motion_detection/build/CMakeFiles/ELF2UF2Build.rule
+/Users/schakra4/Documents/Developer/pico/own_projects/pico_motion_detection/build/CMakeFiles/ELF2UF2Build-complete.rule
+/Users/schakra4/Documents/Developer/pico/own_projects/pico_motion_detection/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-build.rule
+/Users/schakra4/Documents/Developer/pico/own_projects/pico_motion_detection/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-configure.rule
+/Users/schakra4/Documents/Developer/pico/own_projects/pico_motion_detection/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-download.rule
+/Users/schakra4/Documents/Developer/pico/own_projects/pico_motion_detection/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-install.rule
+/Users/schakra4/Documents/Developer/pico/own_projects/pico_motion_detection/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-mkdir.rule
+/Users/schakra4/Documents/Developer/pico/own_projects/pico_motion_detection/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-patch.rule
+/Users/schakra4/Documents/Developer/pico/own_projects/pico_motion_detection/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-update.rule
