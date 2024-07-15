@@ -8,18 +8,18 @@ User PIR sensor with an interrupt handler to detection motion in a space. Runs a
 
 
 ## Pin Setup 
-Pico Pin(40) VBUS -> +rail
-Pico Pin(38) GND -> -rail
+- Pico Pin(40) VBUS -> +rail
+- Pico Pin(38) GND -> -rail
 
-PIR 5V -> +rail
-PIR GND -> -rail
-PIR OUT -> GP14
+- PIR 5V -> +rail
+- PIR GND -> -rail
+- PIR OUT -> GP14
 
-LED + -> resistor -> GP15
-LED - -> -rail
+- LED + -> resistor -> GP15
+- LED - -> -rail
 
-Active Buzzer + -> GP13
-Active Buzzer - -> -rail
+- Active Buzzer + -> GP13
+- Active Buzzer - -> -rail
 
 ## Requirements
 
