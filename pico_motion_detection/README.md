@@ -3,7 +3,7 @@ This example follows on from Swift on embedded project[https://github.com/apple/
 
 User PIR sensor with an interrupt handler to detection motion in a space. Runs a buzzer and a detection LED via GPIO outputs.
 
-<img src="https://github.com/sayantanme/swift-on-embedded/assets/5054420/620bdaca-8533-4720-8122-c55865cb6742">
+<img src="https://github.com/user-attachments/assets/36a9f233-5fd0-42ea-8020-dd6e2ece1eca">
 
 ## Requirements
 
