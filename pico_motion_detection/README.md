@@ -3,7 +3,23 @@ This example follows on from Swift on embedded project[https://github.com/apple/
 
 User PIR sensor with an interrupt handler to detection motion in a space. Runs a buzzer and a detection LED via GPIO outputs.
 
+## Image
 <img src="https://github.com/user-attachments/assets/36a9f233-5fd0-42ea-8020-dd6e2ece1eca">
+
+
+## Pin Setup 
+Pico Pin(40) VBUS -> +rail
+Pico Pin(38) GND -> -rail
+
+PIR 5V -> +rail
+PIR GND -> -rail
+PIR OUT -> GP14
+
+LED + -> resistor -> GP15
+LED - -> -rail
+
+Active Buzzer + -> GP13
+Active Buzzer - -> -rail
 
 ## Requirements
 
