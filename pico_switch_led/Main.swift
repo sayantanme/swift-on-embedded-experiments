@@ -9,7 +9,6 @@ struct Main {
     typealias pinController = PinController
     //typealias callbck = Optional<@convention(c) (UInt32, UInt32) -> ()>
     static var isLedOn = false
-    
     static func main() {
         
         pinController.setupPins()
