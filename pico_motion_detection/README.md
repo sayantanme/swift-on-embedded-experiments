@@ -6,6 +6,11 @@ User PIR sensor with an interrupt handler to detection motion in a space. Runs a
 ## Image
 <img src="https://github.com/user-attachments/assets/36a9f233-5fd0-42ea-8020-dd6e2ece1eca">
 
+## Video
+
+
+https://github.com/user-attachments/assets/32807e7b-23cd-43ad-b6ed-9f92fbf512c9
+
 
 ## Pin Setup 
 - Pico Pin(40) VBUS -> +rail
