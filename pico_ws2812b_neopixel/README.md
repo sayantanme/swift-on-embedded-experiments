@@ -3,7 +3,7 @@ This example follows on from Swift on embedded project[https://github.com/apple/
 
 Controls WS2818B individually addressable LEDs in a running rainbow pattern.
 
-<img src="">
+<img src="https://github.com/user-attachments/assets/f43b8dc7-911f-4af2-9b61-5c4a4cd671f3">
 
 ## Requirements
 
